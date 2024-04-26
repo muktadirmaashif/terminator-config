@@ -1,5 +1,7 @@
 ## Terminator configuration files
 
+![alt text](https://github.com/muktadirmaashif/terminator-config/blob/develop/terminator.png?raw=true)
+
 To use this,
 ```bash
 $ sudo apt install terminator # or download binary and add it to your .bashrc
