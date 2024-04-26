@@ -1,0 +1,16 @@
+.terminator-terminal-window notebook tab {
+  background-color: #000000;
+  #background-color: #282828;
+  padding: 0;
+  border: 0;
+}
+
+.terminator-terminal-window notebook tab:checked {
+  background-image: none;
+  background-color: #282828;
+  #background-color: #000000;
+}
+
+.terminator-terminal-window notebook tab button {
+  padding: 0;
+}
